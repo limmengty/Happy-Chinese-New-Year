@@ -4,7 +4,7 @@ export function useSoundEffect() {
   const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => {
-    audioRef.current = new Audio("/open-envelope.mp3")
+    audioRef.current = new Audio("/public/chinese-new-year.mp3")
   }, [])
 
   const play = () => {
