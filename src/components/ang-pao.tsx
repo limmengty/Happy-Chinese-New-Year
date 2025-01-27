@@ -55,7 +55,7 @@ export function AngPao({
     setIsLoading(false);
   
     // Redirect to another link
-    window.location.href = "https://pay.ababank.com/6RGAuDYU2m3mJRGm7"; // Replace "/new-link" with your target URL
+    window.location.href = "https://pay.ababank.com/xzqkJj6MGq85CKNh7"; // Replace "/new-link" with your target URL
   };
   
 

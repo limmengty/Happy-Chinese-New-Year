@@ -15,7 +15,7 @@ function App() {
       >
         <AngPao
           amount={0.99}
-          qrValue="https://pay.ababank.com/6RGAuDYU2m3mJRGm7"
+          qrValue="https://pay.ababank.com/g5LmxLvWfBNnUHTp7"
           name="Happy Chinese New Year"
           message="Wishing you prosperity and good fortune in the Year of the Dragon! 🐲"
         />
